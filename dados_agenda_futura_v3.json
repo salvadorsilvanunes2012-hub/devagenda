@@ -1,0 +1,72 @@
+{
+    "pagina_atual": "schedule",
+    "tarefas": [
+        {
+            "texto": "Bug fixes",
+            "concluido": true
+        },
+        {
+            "texto": "Refactor code",
+            "concluido": true
+        },
+        {
+            "texto": "Database migration",
+            "concluido": true
+        },
+        {
+            "texto": "Implement feature",
+            "concluido": true
+        },
+        {
+            "texto": "gnjshj",
+            "concluido": true
+        }
+    ],
+    "snippet": "async FetchData() {\n  const res = await api.get();\n  return res.status;\n)\nphyton salva",
+    "eventos": [
+        {
+            "dia": "Tue",
+            "hora": "8:00",
+            "titulo": "Meeting",
+            "duracao": "8:00 - 9:00",
+            "cor": "#06b6d4"
+        },
+        {
+            "dia": "Tue",
+            "hora": "10:00",
+            "titulo": "Design Review",
+            "duracao": "10:00 - 11:30",
+            "cor": "#8b5cf6"
+        },
+        {
+            "dia": "Fri",
+            "hora": "8:00",
+            "titulo": "JS Engine",
+            "duracao": "8:00 - 9:00",
+            "cor": "#10b981"
+        },
+        {
+            "dia": "Fri",
+            "hora": "10:00",
+            "titulo": "C++ Refactor",
+            "duracao": "10:00 - 11:00",
+            "cor": "#ef4444"
+        },
+        {
+            "dia": "Fri",
+            "hora": "12:00",
+            "titulo": "Code Review",
+            "duracao": "12:00 - 14:00",
+            "cor": "#8b5cf6"
+        }
+    ],
+    "habitos": {
+        "titulo": "Pilates",
+        "meta_dias": 25,
+        "dias_marcados": [
+            1
+        ],
+        "dias_extras_recuperacao": 0,
+        "concluido": false
+    }
+}

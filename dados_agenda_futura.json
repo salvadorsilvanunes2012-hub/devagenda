@@ -1,0 +1,25 @@
+{
+    "tarefas": [
+        {
+            "texto": "Bug fixes",
+            "concluido": true
+        },
+        {
+            "texto": "Refactor code",
+            "concluido": true
+        },
+        {
+            "texto": "Database migration",
+            "concluido": false
+        },
+        {
+            "texto": "Implement feature",
+            "concluido": false
+        },
+        {
+            "texto": "fazer carriinho",
+            "concluido": false
+        }
+    ],
+    "snippet": "async FetchData() {\n  const res = await api.get();\n  return res.status;\n}"
+}
